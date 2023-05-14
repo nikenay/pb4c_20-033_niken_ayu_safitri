@@ -1,0 +1,8 @@
+<resources>
+    <string name="menu_search">Pencarian</string>
+    <string name="menu_status">Kamera</string>
+    <string name="menu_chat">Chat Baru</string>
+    <string name="menu_grup">Grup Baru</string>
+    <string name="menu_pengaturan">Pengaturan</string>
+
+</resources>
